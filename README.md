@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dom557
+- 👀 I’m interested in python , ai and also ml
+- 🌱 I’m currently learning python
+- 📫 How to reach me [...](https://rb.gy/445t9) 
