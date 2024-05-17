@@ -16,8 +16,8 @@ I'm Dom, a passionate Full Stack Developer with a love for crafting user-friendl
 
 ##  Achievements
 
-- **LeetCode Problem Master:** Conquered numerous problems, showcasing strong problem-solving skills  [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Master-orange.svg?style=flat-square)](https://leetcode.com/u/dom557/)
-- **Technical Author:** Shared my knowledge through well-received articles on [Dev.to](https://dev.to/dom557)  [![Dev.to Articles](https://img.shields.io/badge/Dev.to-Articles-orange.svg?style=flat-square)](https://dev.to/dom557)
+- **LeetCode Problem Master:** Conquered numerous problems, showcasing strong problem-solving skills  [![LeetCode user dom557](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdom557&logo=leetcode&logoColor=yellow)](https://leetcode.com/dom557/)
+- **Technical Author:** Shared my knowledge through well-received articles on )  [![Dev.to Articles](https://img.shields.io/badge/Dev.to-Articles-orange.svg?style=flat-square)](https://dev.to/dom557)
 - **Project Builder:** Successfully built and deployed projects showcased in my [Online Portfolio](https://abahazem-portfolio.vercel.app/)
 
 ##  Connect with Me
