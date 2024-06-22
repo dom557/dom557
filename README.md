@@ -29,7 +29,7 @@ I'm Dom, a passionate Full Stack Developer with a love for crafting user-friendl
 
 [![Dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=dom557&show_icons=true&theme=radical)](https://github.com/dom557)
 
-[![Dom's GitHub stats](https://github-readme-stats-git-addpercentilerankicon-rickstaa.vercel.app/api?username=dom557&rank_icon=percentile)](https://github.com/dom557/github-readme-stats)
+[![Dom's GitHub stats](https://github-readme-stats-git-addpercentilerankicon-rickstaa.vercel.app/api?username=dom557&rank_icon=percentile&theme=radical)](https://github.com/dom557/github-readme-stats)
 ##  Technologies
 
 [![Badge for React](https://img.shields.io/badge/React-18.2.0-brightgreen.svg?style=flat-square)](https://reactjs.org/) [![Badge for Next.js](https://img.shields.io/badge/Next.js-13.2.3-brightgreen.svg?style=flat-square)](https://nextjs.org/) [![Badge for Node.js](https://img.shields.io/badge/Node.js-v18.x-lightgreen.svg?style=flat-square)](https://nodejs.org/)
