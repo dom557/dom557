@@ -1,37 +1,37 @@
 # Dom's Developer Portfolio
 
-![https___i_imgur com_REwRc1K](https://github.com/dom557/dom557/assets/124943524/9a945f09-6186-4b6a-a16f-2e4578165019)
+![Dom's Banner](https://github.com/dom557/dom557/assets/124943524/9a945f09-6186-4b6a-a16f-2e4578165019)
 
+Hi there! I'm Dom, a passionate Full Stack Developer specializing in crafting clean, scalable web applications with modern technologies like Next.js and TypeScript.
 
-**Building clean, scalable web applications with modern tech.**
-
-I'm Dom, a passionate Full Stack Developer with a love for crafting user-friendly and robust applications. I leverage cutting-edge technologies like Next.js and TypeScript to bring ideas to life.
-
-## ️ Skillset
+## Skillset
 
 - **Frontend:** Next.js, React, TypeScript, JavaScript, HTML, CSS
 - **Backend:** Node.js, Express.js, REST APIs
 - **Databases:** MongoDB, PostgreSQL
 - **DevOps:** Git, Docker
 
-##  Achievements
+## Achievements
 
-- **LeetCode Problem Master:** Conquered numerous problems, showcasing strong problem-solving skills  [![LeetCode user dom557](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdom557&logo=leetcode&logoColor=yellow)](https://leetcode.com/dom557/)
-- **Technical Author:** Shared my knowledge through well-received articles on )  [![Dev.to Articles](https://img.shields.io/badge/Dev.to-Articles-orange.svg?style=flat-square)](https://dev.to/dom557)
-- **Project Builder:** Successfully built and deployed projects showcased in my [Online Portfolio](https://abahazem-portfolio.vercel.app/)
+- **LeetCode Problem Master:** Demonstrated strong problem-solving skills with [![LeetCode Profile](https://img.shields.io/badge/LeetCode-dom557-yellow.svg?style=flat-square&logo=leetcode)](https://leetcode.com/dom557/)
 
-##  Connect with Me
+- **Technical Author:** Published insightful articles on [Dev.to](https://dev.to/dom557)
+- **Project Portfolio:** Explore my projects on my [Online Portfolio](https://abahazem-portfolio.vercel.app/)
 
-- Interested in collaborating or just chatting tech? Reach out!
+## Connect with Me
+
+- Let's collaborate or chat tech:
   - [LinkedIn](https://rb.gy/445t9)
 
-##  GitHub Stats
+## GitHub Stats & Technologies
 
 [![Dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=dom557&show_icons=true&theme=radical)](https://github.com/dom557)
+[![Dom's GitHub stats with Rank](https://github-readme-stats.vercel.app/api?username=dom557&show_icons=true&hide_rank=false&rank_icon=percentile&theme=radical)](https://github.com/dom557)
 
-[![Dom's GitHub stats](https://github-readme-stats-git-addpercentilerankicon-rickstaa.vercel.app/api?username=dom557&rank_icon=percentile&theme=radical)](https://github.com/dom557/github-readme-stats)
-##  Technologies
+### Technologies I Love
 
-[![Badge for React](https://img.shields.io/badge/React-18.2.0-brightgreen.svg?style=flat-square)](https://reactjs.org/) [![Badge for Next.js](https://img.shields.io/badge/Next.js-13.2.3-brightgreen.svg?style=flat-square)](https://nextjs.org/) [![Badge for Node.js](https://img.shields.io/badge/Node.js-v18.x-lightgreen.svg?style=flat-square)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-18.2.0-brightgreen.svg?style=flat-square)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-13.2.3-brightgreen.svg?style=flat-square)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-v18.x-lightgreen.svg?style=flat-square)](https://nodejs.org/)
 
-**I'm always open to learning new things and collaborating on exciting projects. Feel free to reach out!**
+I'm always eager to learn new things and collaborate on exciting projects. Feel free to connect!
