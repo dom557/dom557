@@ -26,8 +26,8 @@ Hi there! I'm Dom, a passionate Full Stack Developer specializing in crafting cl
 ## Skillset
 
 - **Frontend:** Next.js, React, TypeScript, JavaScript, HTML, CSS
-- **Backend:** Node.js, Express.js, REST APIs
-- **Databases:** MongoDB, PostgreSQL
+- **Backend:** Node.js, Express.js , Python , REST APIs
+- **Databases:** MongoDB, MySQL
 - **DevOps:** Git, Docker
 
 ## Achievements
