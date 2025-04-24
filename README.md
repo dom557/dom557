@@ -1,6 +1,6 @@
 # Dom's Developer Portfolio
 
-![Dom's Banner](https://github.com/user-attachments/assets/8d09bc25-ed31-4e4e-ab62-a5b2c4c2cafb)
+![Dom's Banner](https://github.com/user-attachments/assets/88cc520a-07c7-4682-8ab1-0c5a84be2a59)
 
 Hi there! I'm Dom, a passionate Full Stack Developer specializing in crafting clean, scalable web applications with modern technologies like Next.js and TypeScript.
 
