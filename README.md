@@ -1,7 +1,7 @@
-# Dom's Developer Portfolio
+# Dom's Developer Portfolio <img align="right" src="https://komarev.com/ghpvc/?username=dom557" alt="dom" />
 
 ![Dom's Banner](https://github.com/user-attachments/assets/9c4182e7-1aff-4940-a8d3-33961a556ddb)
-<img align="right" src="https://komarev.com/ghpvc/?username=dom557" alt="dom" />
+
 
 
 Hi there! I'm Dom, a passionate Full Stack Developer specializing in crafting clean, scalable web applications with modern technologies like Next.js and TypeScript.
