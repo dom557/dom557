@@ -1,5 +1,5 @@
 # Dom's Developer Portfolio
-
+<img align="right" src="https://komarev.com/ghpvc/?username=dom557" alt="dom" />
 ![Dom's Banner](https://github.com/user-attachments/assets/9c4182e7-1aff-4940-a8d3-33961a556ddb)
 
 
